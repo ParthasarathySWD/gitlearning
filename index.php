@@ -4,6 +4,6 @@
 	<title>Index</title>
 </head>
 <body>
-	<p>Index</p>
+	<p>Home</p>
 </body>
 </html>
